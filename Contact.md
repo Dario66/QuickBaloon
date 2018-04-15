@@ -25,3 +25,10 @@ Ottenimento nel settembre 1998 della certificazione QS 9000 indispensabile per o
 Implementazione di un progetto per la certificazione ISO 9002 con ottenimento della stessa nel 1995
 Scrittura del primo “manuale della qualità” 1987
 Pianificazione della produzione
+
+
+
+Dario Grandi
+
+
+<img src="https://github.com/Dario66/QuickBaloon/blob/master/img/imgprofil.jpg" width="200">
