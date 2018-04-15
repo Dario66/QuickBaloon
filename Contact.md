@@ -1,5 +1,7 @@
 Maris Casamenti
 
+![alt text](https://github.com/Dario66/QuickBaloon/blob/master/img/fotoMaris.jpg)
+
 Responsabile Qualità per 31 anni in un azienda manifatturiera di media grandezza della zona
                        
 Responsabile Qualità – Laboratorio – controlli in produzione - certificazioni
