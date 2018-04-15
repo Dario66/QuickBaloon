@@ -1,4 +1,4 @@
-Maris Casamenti
+<h1>Maris Casamenti</h1>
 
 <img src="https://github.com/Dario66/QuickBaloon/blob/master/img/fotoMaris.jpg" width="200">
 
