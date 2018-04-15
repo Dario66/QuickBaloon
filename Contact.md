@@ -31,3 +31,5 @@ Pianificazione della produzione
 
 
 <img src="https://github.com/Dario66/QuickBaloon/blob/master/img/imgprofil.jpg" width="200">
+
+Studente di ingegneria Informatica presso la sede di Bologna 
