@@ -19,4 +19,6 @@ Il maggior fattore di successo di Quick baloon resta comunque la drastica riduzi
 Quando dovete redigere un rapporto dimensionale di un pezzo per conto terzi o per la vs. attività avete necessità di essere efficienti in tutte le fasi del vs. processo, Quick baloon vi aiuta ad ridurre in maniera considerevole la fase di evidenziazione delle quote “pallinatura”, permettendovi di realizzare un lavoro rapido e pulito.
 
 ![alt text](https://github.com/Dario66/QuickBaloon/blob/master/v.jpg)
+
+
 ![alt text](https://github.com/Dario66/QuickBaloon/blob/master/m.jpg)
