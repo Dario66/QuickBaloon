@@ -3,7 +3,6 @@
 QuickBaloon è un applicazione realizzata in Java che utilizza unicamente librerie OpenSource attualmente in versione Beta.
 
 
-
 Il progetto è nato con l'idea di Maris Casamenti, l'implementazione del software è stata realizzata da Dario Grandi.
 
 
