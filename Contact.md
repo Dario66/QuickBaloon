@@ -27,7 +27,7 @@ Pianificazione della produzione
 
 
 
-Dario Grandi
+<h1>Dario Grandi</h1>
 
 
 <img src="https://github.com/Dario66/QuickBaloon/blob/master/img/imgprofil.jpg" width="200">
