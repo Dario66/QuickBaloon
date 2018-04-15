@@ -1,5 +1,5 @@
 # QuickBaloon
-
+![alt text](https://github.com/Dario66/QuickBaloon/blob/master/m.jpg)
 
 QuickBaloon è un applicazione realizzata in Java che utilizza unicamente librerie OpenSource
 
