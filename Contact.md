@@ -1,6 +1,7 @@
 Maris Casamenti
 
-![](https://github.com/Dario66/QuickBaloon/blob/master/img/fotoMaris.jpg =100x20)
+![alt text](https://github.com/Dario66/QuickBaloon/blob/master/img/fotoMaris.jpg)
+<img src="https://github.com/Dario66/QuickBaloon/blob/master/img/fotoMaris.jpg" width="200">
 
 Responsabile Qualità per 31 anni in un azienda manifatturiera di media grandezza della zona
                        
